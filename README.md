@@ -1,1 +1,1 @@
-This repository contains works done during the AOLCC class.
+This repository contains the works done during the AOLCC class.
